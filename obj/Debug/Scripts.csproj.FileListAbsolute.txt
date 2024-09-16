@@ -1,0 +1,10 @@
+C:\Users\KRK12\source\repos\Scripts\bin\Debug\Scripts.exe.config
+C:\Users\KRK12\source\repos\Scripts\bin\Debug\Scripts.exe
+C:\Users\KRK12\source\repos\Scripts\bin\Debug\Scripts.pdb
+C:\Users\KRK12\source\repos\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache
+C:\Users\KRK12\source\repos\Scripts\obj\Debug\Scripts.Form1.resources
+C:\Users\KRK12\source\repos\Scripts\obj\Debug\Scripts.Properties.Resources.resources
+C:\Users\KRK12\source\repos\Scripts\obj\Debug\Scripts.csproj.GenerateResource.cache
+C:\Users\KRK12\source\repos\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache
+C:\Users\KRK12\source\repos\Scripts\obj\Debug\Scripts.exe
+C:\Users\KRK12\source\repos\Scripts\obj\Debug\Scripts.pdb
